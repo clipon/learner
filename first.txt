@@ -1,2 +1,3 @@
 hi there,
 I'm good for git.
+new line added.twice.
