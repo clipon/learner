@@ -1,2 +1,2 @@
 hi there,
-I'm a learner of git.
+I'm good for git.
